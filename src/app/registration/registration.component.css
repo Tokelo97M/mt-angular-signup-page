@@ -1,0 +1,9 @@
+.example-full-width{
+    display: block;
+}
+
+.main-card{
+    padding-left: 300px;
+    padding-right: 300px;
+    height: 100%;
+}
